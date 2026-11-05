@@ -152,6 +152,3 @@ Restricciones de uso y privacidad: los textos del BOE, las estadísticas del MIT
 - Otras dudas:
   - La variabilidad y el formato no estandarizado de los informes anuales antiguos pueden dificultar la automatización completa de la ingesta (Actividad 7), lo cual se resolverá acotando el rango temporal de los datos analizados a los años más recientes y homogéneos.
 
-
-## Preferencia del equipo (opcional)
-...
