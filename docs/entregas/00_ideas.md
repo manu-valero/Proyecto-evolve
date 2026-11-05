@@ -127,6 +127,7 @@ Herramienta que presta asesoramiento en normativa medioambiental y análisis de 
 
 ### Datos
 | Fuente | Enlace | Qué aporta | Estado |
+| --- | --- | --- | --- |
 | API del Boletín Oficial del Estado (BOE) | https://www.boe.es/datosabiertos/api/api.php | Textos íntegros de leyes, reales decretos y normativas ambientales de España para alimentar la base de conocimiento del LLM (RAG) | Confirmado: API pública y gratuita disponible |
 | Memorias Estadísticas del MITECO | https://www.datosabiertos.miteco.gob.es/es.html | Métricas e informes de inspección ambiental y expedientes sancionadores resueltos por tipología de norma | Confirmado: informes institucionales públicos y accesibles |
 | Memorias Anuales del SEPRONA (Guardia Civil) | https://web.guardiacivil.es/es/institucional/conocenos/especialidades/Medio_ambiente/ | Datos cuantitativos oficiales sobre infracciones medioambientales detectadas, desglosadas por gravedad y normativa | Confirmado: memorias anuales públicas disponibles |
